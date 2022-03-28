@@ -1,0 +1,5 @@
+.chats-screen .user-component {
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: var(--main-border);
+}
